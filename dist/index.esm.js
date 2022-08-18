@@ -2425,11 +2425,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.mozartfinance.io",
+                href: "https://exchange.DogenSwap.dog",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.mozartfinance.io/#/pool",
+                href: "https://exchange.DogenSwap.dog/#/pool",
             },
         ],
     },
@@ -2459,15 +2459,15 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/mozartfinance",
+                href: "https://github.com/dogenswap",
             },
             {
                 label: "Docs",
-                href: "https://mozartfinance.gitbook.io/mozart-finance/",
+                href: "https://dogenswap.gitbook.io/dogenswap/",
             },
             {
                 label: "Blog",
-                href: "https://mozart-finance.medium.com/",
+                href: "",
             },
         ],
     },
@@ -2479,26 +2479,26 @@ var socials = [
         items: [
             {
                 label: "Annoucements",
-                href: "https://t.me/MozartFinanceAnn",
+                href: "https://t.me/DogenSwap",
             },
             {
                 label: "English",
-                href: "https://t.me/MozartFinance",
+                href: "https://t.me/DogenSwap",
             },
             {
                 label: "Espanol",
-                href: "https://t.me/MozartFinanceEs",
+                href: "https://t.me/DogenSwap",
             },
             {
                 label: "Japan",
-                href: "https://t.me/MozartFinanceJPN",
+                href: "https://t.me/DogenSwap",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MozartFinance",
+        href: "https://twitter.com/DogenSwap",
     },
 ];
 var MENU_HEIGHT = 64;
